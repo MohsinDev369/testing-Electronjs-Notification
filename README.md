@@ -1,4 +1,4 @@
-#Trying notifications in Electron.js
+# Trying notifications in Electron.js
 Creating an electron app that Just sends a notification, for example, experimental code 
 
 # Preview
