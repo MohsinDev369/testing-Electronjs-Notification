@@ -12,3 +12,5 @@ npm install
 ```
 npm run start
 ```
+
+## Compare this app size vs Tauri app
